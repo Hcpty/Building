@@ -4,7 +4,7 @@
 
 set -ex
 
-pkg install java/openjdk21
+pkg install -y java/openjdk21
 echo -e 'fdesc\t\t/dev/fd\t\tfdescfs\trw\t0\t0' >> /etc/fstab
 echo -e 'proc\t\t/proc\t\tprocfs\trw\t0\t0' >> /etc/fstab
 mount -a

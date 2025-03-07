@@ -4,6 +4,6 @@
 
 set -ex
 
-pkg install www/nginx
+pkg install -y www/nginx
 sysrc nginx_enable=YES
 service nginx start
