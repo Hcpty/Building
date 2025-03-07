@@ -11,7 +11,7 @@
 
 ## 高级语言编程
 
-### 数据结构和算法[[1]](./appendices/array-based-data-structure-vs-chain-based-data-structure.md)
+### 数据结构和算法[[1]](./appendices/Array-based%20data%20structure%20vs%20chain-based%20data%20structure.md)
 
 - Storing
   - Collection Storing
@@ -25,7 +25,7 @@
   - Numeric sorting
     - Various numeric sorting algorithms
 
-### 程序元素和设计模式[[2]](./appendices/element-interface-vs-element-implementation.md)[[3]](./appendices/object-composition-vs-class-inheritance-and-overloading.md)
+### 程序元素和设计模式[[2]](./appendices/Element%20interface%20vs%20element%20implementation.md)[[3]](./appendices/Object%20composition%20vs%20class%20inheritance%20and%20overloading.md)
 
 - 创建型
   - Factory
@@ -55,13 +55,13 @@
 
 ## 处理系统
 
-### 专用处理系统[[4]](./appendices/interrupt-handling.md)
+### 专用处理系统[[4]](./appendices/Interrupt%20handling.md)
 
 - CU, ALU and registers
 - RAM
 - ROM and interrupt handlers
 
-### 通用处理系统[[5]](./appendices/byte-addressing.md)[[6]](./appendices/interrupt-handling.md)[[7]](./appendices/pre-threading-programming-vs-event-driven-programming.md)
+### 通用处理系统[[5]](./appendices/Byte%20addressing.md)[[6]](./appendices/Interrupt%20handling.md)[[7]](./appendices/Pre-threading programming%20vs%20event-driven%20programming.md)
 - CU, ALU and registers
 - MMU, page tables and RAM
 - ROM, interrupt handlers and apps
