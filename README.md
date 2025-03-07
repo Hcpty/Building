@@ -2,24 +2,16 @@
 
 ## Layer 1
 
-- [Computer](./Computer/)
-
-## Layer 2
-
-- [FreeBSD](./FreeBSD/)
-
-## Layer 3
-
 - [Redis](./Redis/)
 - [MinIO](./MinIO/)
 
-## Layer 4
+## Layer 2
 
 - [Java](./Java/)
 - [Gateway](./Gateway/)
 - [OriginServer](./OriginServer/)
 - [Modules](./Modules/)
 
-## Layer 5
+## Layer 3
 
 - [Nginx](./Nginx/)
