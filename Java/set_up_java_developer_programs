@@ -23,4 +23,4 @@ chmod +x /usr/local/bin/google-java-format
 echo 'Set up HTML/CSS/TypeScript developer programs'
 pkg install -y www/node22
 pkg install -y www/npm-node22
-npm install --global corepack@latest
+npm install -g pnpm
