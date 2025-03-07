@@ -1,4 +1,4 @@
-# Server system
+# Server
 
 ## Layer 1
 
