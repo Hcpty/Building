@@ -11,9 +11,9 @@ echo 'Set up sh developer programs'
 pkg install -y devel/shfmt devel/hs-ShellCheck
 
 echo 'Set up HTML/CSS/TypeScript developer programs'
-pkg install -y www/node22 www/npm-node22
-npm install -g corepack@latest
-corepack install -g npm yarn pnpm
+pkg install -y www/node22
+pkg install -y www/npm-node22
+npm install -g pnpm
 
 echo 'Set up Java developer programs'
 pkg install -y java/openjdk21
