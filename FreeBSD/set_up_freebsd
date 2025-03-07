@@ -4,8 +4,6 @@
 
 set -ex
 
-echo 'Set up FreeBSD'
-
 echo 'Set up single user mode'
 sed -i -e 's/unknown\toff secure/unknown\toff insecure/' /etc/ttys
 
