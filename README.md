@@ -1,4 +1,4 @@
-# Server technology
+# Server system
 
 ## Layer 1
 
