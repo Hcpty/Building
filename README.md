@@ -8,7 +8,7 @@
 ## Layer 2
 
 - [Java](./Java/)
-- [Origin server](./Origin server/)
+- [Origin server](./Origin\ server/)
 - [Gateway](./Gateway/)
 - [Modules](./Modules/)
 
