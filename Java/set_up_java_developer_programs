@@ -12,7 +12,7 @@ pkg install -y devel/shfmt devel/hs-ShellCheck
 
 echo 'Set up HTML/CSS/TypeScript developer programs'
 pkg install -y www/node22 www/npm-node22
-npm install -g corepack
+npm install -g corepack@latest
 corepack install -g npm yarn pnpm
 
 echo 'Set up Java developer programs'
