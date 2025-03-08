@@ -25,7 +25,7 @@
   - Numeric sorting
     - Various numeric sorting algorithms
 
-### 程序元素和设计模式[[2]](./appendices/Element%20interface%20vs%20element%20implementation.md)[[3]](./appendices/Object%20composition%20vs%20class%20inheritance%20and%20overloading.md)
+### 程序元素和模式[[2]](./appendices/Element%20interface%20vs%20element%20implementation.md)[[3]](./appendices/Object%20composition%20vs%20class%20inheritance%20and%20overloading.md)
 
 - 创建型
   - Factory
