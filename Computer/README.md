@@ -12,7 +12,7 @@
 
 ## 編程
 
-### 數據結構和算法[[1]](./appendices/Array-based%20data%20structure%20vs%20chain-based%20data%20structure.md)
+### 數據結構和算法
 
 - Storing
   - Collection Storing
@@ -26,7 +26,7 @@
   - Numeric sorting
     - Various numeric sorting algorithms
 
-### 程序元素和模式[[2]](./appendices/Element%20interface%20vs%20element%20implementation.md)[[3]](./appendices/Object%20composition%20vs%20class%20inheritance%20and%20overloading.md)
+### 程序元素和模式
 
 - 創建型
   - Factory
@@ -56,13 +56,13 @@
 
 ## 處理系統
 
-### 專用處理系統[[4]](./appendices/Interrupt%20handling.md)
+### 專用處理系統
 
 - CU, ALU and registers
 - RAM
 - ROM and interrupt handlers
 
-### 通用處理系統[[5]](./appendices/Byte%20addressing.md)[[6]](./appendices/Interrupt%20handling.md)[[7]](./appendices/Pre-threading%20programming%20vs%20event-driven%20programming.md)
+### 通用處理系統
 - CU, ALU and registers
 - MMU, page tables and RAM
 - ROM, interrupt handlers and apps
