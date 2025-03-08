@@ -1,0 +1,7 @@
+#!/bin/sh
+#
+# Set up Redis client.
+
+set -ex
+
+pkg install -y databases/redis

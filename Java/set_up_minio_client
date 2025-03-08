@@ -1,0 +1,7 @@
+#!/bin/sh
+#
+# Set up MinIO client.
+
+set -ex
+
+pkg install -y www/minio-client
