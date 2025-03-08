@@ -2,38 +2,38 @@
 
 ## 二進制算術邏輯運算
 
-- 二進制信息表示
-- 二進制算數邏輯運算
+1. 二進制信息表示
+2. 二進制算數邏輯運算
 
 ## 編譯
 
-- 把匯編語言程序編譯成機器語言程序
-- 把高級語言程序編譯成匯編語言程序
+1. 把匯編語言程序編譯成機器語言程序
+2. 把高級語言程序編譯成匯編語言程序
 
 ## 編程
 
 ### 數據結構和算法
 
-- Storing
+1. Storing
   - Collection Storing
     - Array
     - Chain
-- Indexing
+2. Indexing
   - Equality indexing
     - Array and hash table
     - Search tree
-- Sorting
+3. Sorting
   - Numeric sorting
     - Various numeric sorting algorithms
 
 ### 程序元素和模式
 
-- 創建型
+1. 創建型
   - Factory
   - Builder
   - Prototype
   - Singleton
-- 結構型
+2. 結構型
   - Adapter
   - Bridge
   - Composite
@@ -41,7 +41,7 @@
   - Facade
   - Flyweight
   - Proxy
-- 行爲型
+3. 行爲型
   - Chain of responsibility
   - Command
   - Interpreter
@@ -56,12 +56,12 @@
 
 ## 處理系統
 
-- 專用處理系統
+1. 專用處理系統
   - CU, ALU and registers
   - RAM
   - ROM and interrupt handlers
 
-- 通用處理系統
+2. 通用處理系統
   - CU, ALU and registers
   - MMU, page tables and RAM
   - ROM, interrupt handlers and apps
