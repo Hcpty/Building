@@ -1,17 +1,18 @@
 # Computer
 
-## 二进制算术逻辑运算
+## 二進制算術邏輯運算
 
-- 二进制算术逻辑运算
+- 二進制表示
+- 二進制算數邏輯運算
 
-## 编译
+## 編譯
 
-- 把汇编语言程序编译成机器语言程序
-- 把高级语言程序编译成汇编语言程序
+- 把匯編語言程序編譯成機器語言程序
+- 把高級語言程序編譯成匯編語言程序
 
-## 高级语言编程
+## 高級語言編程
 
-### 数据结构和算法[[1]](./appendices/Array-based%20data%20structure%20vs%20chain-based%20data%20structure.md)
+### 數據結構和算法[[1]](./appendices/Array-based%20data%20structure%20vs%20chain-based%20data%20structure.md)
 
 - Storing
   - Collection Storing
@@ -27,12 +28,12 @@
 
 ### 程序元素和模式[[2]](./appendices/Element%20interface%20vs%20element%20implementation.md)[[3]](./appendices/Object%20composition%20vs%20class%20inheritance%20and%20overloading.md)
 
-- 创建型
+- 創建型
   - Factory
   - Builder
   - Prototype
   - Singleton
-- 结构型
+- 結構型
   - Adapter
   - Bridge
   - Composite
@@ -40,7 +41,7 @@
   - Facade
   - Flyweight
   - Proxy
-- 行为型
+- 行爲型
   - Chain of responsibility
   - Command
   - Interpreter
@@ -53,23 +54,23 @@
   - Template method
   - Visitor
 
-## 处理系统
+## 處理系統
 
-### 专用处理系统[[4]](./appendices/Interrupt%20handling.md)
+### 專用處理系統[[4]](./appendices/Interrupt%20handling.md)
 
 - CU, ALU and registers
 - RAM
 - ROM and interrupt handlers
 
-### 通用处理系统[[5]](./appendices/Byte%20addressing.md)[[6]](./appendices/Interrupt%20handling.md)[[7]](./appendices/Pre-threading%20programming%20vs%20event-driven%20programming.md)
+### 通用處理系統[[5]](./appendices/Byte%20addressing.md)[[6]](./appendices/Interrupt%20handling.md)[[7]](./appendices/Pre-threading%20programming%20vs%20event-driven%20programming.md)
 - CU, ALU and registers
 - MMU, page tables and RAM
 - ROM, interrupt handlers and apps
 
-## 网络系统
+## 網絡系統
 
-- 信号层
-- 帧层
-- 网络地址层
-- 端口层
-- 报文层
+- 信號層
+- 幀層
+- 網絡地址層
+- 端口層
+- 報文層
