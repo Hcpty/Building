@@ -10,7 +10,7 @@
 - 把匯編語言程序編譯成機器語言程序
 - 把高級語言程序編譯成匯編語言程序
 
-## 高級語言編程
+## 編程
 
 ### 數據結構和算法[[1]](./appendices/Array-based%20data%20structure%20vs%20chain-based%20data%20structure.md)
 
