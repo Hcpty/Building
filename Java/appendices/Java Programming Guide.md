@@ -1,6 +1,6 @@
-# Java Programmer Guide
+# Java Programming Guide
 
-## sh Programmer Guide
+## sh Programming Guide
 
 - Tutorial: [Bourne Shell Tutorial](https://www.grymoire.com/Unix/Bourne.html)
 - Style guide: [Google Shell Style Guide](https://google.github.io/styleguide/shellguide.html)
@@ -9,7 +9,7 @@
 - Compiler: none
 - Bundler: none
 
-## Java Programmer Guide
+## Java Programming Guide
 
 - Tutorial: [Java Tutorials](https://docs.oracle.com/javase/tutorial/tutorialLearningPaths.html)
 - Style guide: [Google Java Style Guide](https://google.github.io/styleguide/javaguide.html)
@@ -18,7 +18,7 @@
 - Compiler: [javac](https://docs.oracle.com/en/java/javase/21/docs/specs/man/javac.html)
 - Bundler: [jar](https://docs.oracle.com/en/java/javase/21/docs/specs/man/jar.html)
 
-## HTML/CSS/TypeScript Programmer Guide
+## HTML/CSS/TypeScript Programming Guide
 
 - Tutorial: [HTML beginner's tutorials](https://developer.mozilla.org/en-US/docs/Web/HTML#beginners_tutorials), [CSS beginner's tutorials](https://developer.mozilla.org/en-US/docs/Web/CSS#beginners_tutorials), [TypeScript Handbook](https://www.typescriptlang.org/docs/handbook/intro.html)
 - Style guide: [Google HTML Style Guide](https://google.github.io/styleguide/htmlcssguide.html), [Google CSS Style Guide](https://google.github.io/styleguide/htmlcssguide.html), [Google TypeScript Style Guide](https://google.github.io/styleguide/tsguide.html)

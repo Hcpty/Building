@@ -1,16 +1,16 @@
 #!/bin/sh
 #
-# Set up Java programmer programs.
+# Set up Java programming programs.
 
 set -ex
 
-echo 'Set up programmer programs'
+echo 'Set up programming programs'
 pkg install -y editors/vim devel/git
 
-echo 'Set up sh programmer programs'
+echo 'Set up sh programming programs'
 pkg install -y devel/shfmt devel/hs-ShellCheck
 
-echo 'Set up Java programmer programs'
+echo 'Set up Java programming programs'
 pkg install -y java/openjdk21
 echo -e 'fdesc\t\t/dev/fd\t\tfdescfs\trw\t0\t0' >> /etc/fstab
 echo -e 'proc\t\t/proc\t\tprocfs\trw\t0\t0' >> /etc/fstab
