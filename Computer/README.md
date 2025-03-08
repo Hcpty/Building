@@ -56,16 +56,15 @@
 
 ## 處理系統
 
-### 專用處理系統
+- 專用處理系統
+  - CU, ALU and registers
+  - RAM
+  - ROM and interrupt handlers
 
-- CU, ALU and registers
-- RAM
-- ROM and interrupt handlers
-
-### 通用處理系統
-- CU, ALU and registers
-- MMU, page tables and RAM
-- ROM, interrupt handlers and apps
+- 通用處理系統
+  - CU, ALU and registers
+  - MMU, page tables and RAM
+  - ROM, interrupt handlers and apps
 
 ## 網絡系統
 
