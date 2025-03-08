@@ -11,6 +11,5 @@ sed -i -e 's/# aclfile \/etc\/redis\/users.acl/aclfile \/usr\/local\/etc\/redis\
 mkdir /usr/local/etc/redis/
 touch /usr/local/etc/redis/users.acl
 echo 'user default on >'$PASSWORD' ~* &* +@all' >> /usr/local/etc/redis/users.acl
-echo 'user server on >'$PASSWORD' ~* &* +@all' >> /usr/local/etc/redis/users.acl
 sysrc redis_enable=YES
 service redis start
