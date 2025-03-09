@@ -1,25 +1,25 @@
 # Server
 
-## Layer 1
+## Level 1
 
 - [Computer](./Computer/)
 
-## Layer 2
+## Level 2
 
 - [FreeBSD](./FreeBSD/)
 
-## Layer 3
+## Level 3
 
 - [Redis](./Redis/)
 - [MinIO](./MinIO/)
 
-## Layer 4
+## Level 4
 
 - [Java](./Java/)
 - [Origin server](./Origin%20server/)
 - [Gateway](./Gateway/)
 - [Modules](./Modules/)
 
-## Layer 5
+## Level 5
 
 - [Nginx](./Nginx/)
