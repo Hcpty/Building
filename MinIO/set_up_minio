@@ -4,8 +4,8 @@
 
 set -eux
 
-echo 'PASSWORD: '$PASSWORD
+echo 'MINIO_ROOT_PASSWORD: '$MINIO_ROOT_PASSWORD
 pkg install -y www/minio
-sysrc minio_root_password=$PASSWORD
+sysrc minio_root_password=$MINIO_ROOT_PASSWORD
 sysrc minio_enable=YES
 service minio start
