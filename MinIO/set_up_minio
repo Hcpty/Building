@@ -8,7 +8,6 @@ echo 'MINIO_DISKS: '$MINIO_DISKS
 echo 'MINIO_ROOT_PASSWORD: '$MINIO_ROOT_PASSWORD
 
 pkg install -y www/minio
-mkdir -p /usr/local/etc/minio/certs/
 sysrc minio_enable=YES
 sysrc minio_disks=$MINIO_DISKS
 sysrc minio_console_address=":9001"
