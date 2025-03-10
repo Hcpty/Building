@@ -2,26 +2,26 @@
 
 ## Level 1
 
-- [Computer](./Computer/)
+- [Computer](./Level%201/Computer/)
 
 ## Level 2
 
-- [FreeBSD](./FreeBSD/)
+- [FreeBSD](./Level%202/FreeBSD/)
 
 ## Level 3
 
 ### Layer 1
 
-- [Redis](./Redis/)
-- [MinIO](./MinIO/)
+- [Redis](./Level%203/Layer%201/Redis/)
+- [MinIO](./Level%203/Layer%201/MinIO/)
 
 ### Layer 2
 
-- [Java](./Java/)
-- [Origin Server](./Origin%20Server/)
-- [Gateway](./Gateway/)
-- [Modules](./Modules/)
+- [Java](./Level%203/Layer%202/Java/)
+- [Origin Server](./Level%203/Layer%202/Origin%20Server/)
+- [Gateway](./Level%203/Layer%202/Gateway/)
+- [Modules](./Level%203/Layer%202/Modules/)
 
 ### Level 3
 
-- [Nginx](./Nginx/)
+- [Nginx](./Level%203/Layer%203/Nginx/)
