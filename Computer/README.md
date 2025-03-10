@@ -15,15 +15,15 @@
 ### 數據結構和算法
 
 - Storing
-  - Collection Storing
+  - Collection storing
     - Array
     - Chain
 - Indexing
-  - Equality Indexing
+  - Equality indexing
     - Array and Hash Table
     - Search Tree
 - Sorting
-  - Numeric Sorting
+  - Numeric sorting
 
 ### 程序元素和模式
 
@@ -55,7 +55,7 @@
 
 ### 軟件架構和風格
 
-- Data-Flow Styles
+- Data-flow Styles
   - Pipe and Filter
   - Uniform Pipe and Filter
 - Replication Styles
