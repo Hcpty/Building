@@ -54,14 +54,14 @@
   - Template method
   - Visitor
 
-## 處理系統
+## 執行系統
 
-- 專用處理系統
+- 專用執行系統
   - CU, ALU and registers
   - RAM
   - ROM and interrupt handlers
 
-- 通用處理系統
+- 通用執行系統
   - CU, ALU and registers
   - MMU, page tables and RAM
   - ROM, interrupt handlers and apps
