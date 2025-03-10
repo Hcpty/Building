@@ -18,7 +18,7 @@
 ### Layer 2
 
 - [Java](./Java/)
-- [Origin server](./Origin%20server/)
+- [Origin Server](./Origin%20Server/)
 - [Gateway](./Gateway/)
 - [Modules](./Modules/)
 
