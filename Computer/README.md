@@ -24,7 +24,6 @@
     - Search Tree
 - Sorting
   - Numeric Sorting
-    - Various numeric sorting algorithms
 
 ### 程序元素和模式
 
@@ -56,7 +55,7 @@
 
 ### 軟件架構和風格
 
-- Data-flow Styles
+- Data-Flow Styles
   - Pipe and Filter
   - Uniform Pipe and Filter
 - Replication Styles
@@ -87,14 +86,14 @@
 ## 執行系統
 
 - 專用執行系統
-  - CU, ALU and registers
+  - CU, ALU and Registers
   - RAM
-  - ROM and interrupt handlers
+  - ROM and Interrupt Handlers
 
 - 通用執行系統
-  - CU, ALU and registers
-  - MMU, page tables and RAM
-  - ROM, interrupt handlers and apps
+  - CU, ALU and Registers
+  - MMU, Page Tables and RAM
+  - ROM, Interrupt Handlers and Apps
 
 ## 網絡系統
 
