@@ -19,11 +19,11 @@
     - Array
     - Chain
 - Indexing
-  - Equality indexing
-    - Array and hash table
-    - Search tree
+  - Equality Indexing
+    - Array and Hash Table
+    - Search Tree
 - Sorting
-  - Numeric sorting
+  - Numeric Sorting
     - Various numeric sorting algorithms
 
 ### 程序元素和模式
@@ -42,7 +42,7 @@
   - Flyweight
   - Proxy
 - 行爲型
-  - Chain of responsibility
+  - Chain of Responsibility
   - Command
   - Interpreter
   - Iterator
@@ -51,8 +51,38 @@
   - Observer
   - State
   - Strategy
-  - Template method
+  - Template Method
   - Visitor
+
+### 軟件架構和風格
+
+- Data-flow Styles
+  - Pipe and Filter
+  - Uniform Pipe and Filter
+- Replication Styles
+  - Replicated Repository
+  - Cache
+- Hierarchical Styles
+  - Client-Server
+  - Layered System and Layered-Client-Server
+  - Client-Stateless-Server
+  - Client-Cache-Stateless-Server
+  - Layered-Client-Cache-Stateless-Server
+  - Remote Session
+  - Remote Data Access
+- Mobile Code Styles
+  - Virtual Machine
+  - Remote Evaluation
+  - Code on Demand
+  - Layered-Code-on-Demand-Client-Cache-Stateless-Server
+  - Mobile Agent
+- Peer-to-Peer Styles
+  - Event-based Integration
+  - C2
+  - Distributed Objects
+  - Brokered Distributed Objects
+- Hybrid Styles
+  - Representational State Transfer
 
 ## 執行系統
 
