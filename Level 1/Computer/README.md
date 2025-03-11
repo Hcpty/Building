@@ -24,6 +24,8 @@
     - Search Tree
 - Sorting
   - Numeric sorting
+    - Array-based sorting algorithms
+    - Chain-based sorting algorithms
 
 ### 程序元素和模式
 
