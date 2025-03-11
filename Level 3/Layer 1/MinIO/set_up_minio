@@ -10,7 +10,7 @@ echo 'MINIO_ROOT_PASSWORD: '$MINIO_ROOT_PASSWORD
 pkg install -y www/minio
 sysrc minio_enable=YES
 sysrc minio_disks=$MINIO_DISKS
-sysrc minio_console_address=":9001"
+sysrc minio_console_address=':9001'
 sysrc minio_root_user=minioadmin
 sysrc minio_root_password=$MINIO_ROOT_PASSWORD
 sysrc minio_syslog_enable=NO
