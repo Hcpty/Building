@@ -55,7 +55,7 @@
   - Template Method
   - Visitor
 
-### 軟件架構和風格
+### 軟件元素和風格
 
 - Data-flow Styles
   - Pipe and Filter
